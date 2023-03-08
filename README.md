@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Yves
+## Bem-vindo(a/e) ao perfil de Yves
 
  <div>
    <a href="https://github.com/yves-fonseca">
